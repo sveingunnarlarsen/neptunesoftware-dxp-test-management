@@ -1,0 +1,2 @@
+await entities.qa_reported_issues_db.update("0ADA5CEA-2195-4BA4-96A0-3748300C9265", {"createdBy": "jordi.aixela@neptune-software.com"});
+complete();
